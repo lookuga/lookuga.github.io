@@ -7,9 +7,9 @@ tags: Awesomeness Development Electronics Malta
 ---
 This is the final part of this 3-part blog post, there is a possibility that in the future we may continue with adding further modifications and improvements but they will be published on separate blog posts.<br><br>Furthermore, if you haven't already checked out part 1 and 2, we encourage you to check these out at the following links:
 <br>
-Part 1: <a target="_blank" href="https://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-1">https://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-1</a>
+Part 1: <a target="_blank" href="http://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-1">http://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-1</a>
 <br>
-Part 2: <a target="_blank" href="https://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-2-teardown">https://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-2-teardown</a>
+Part 2: <a target="_blank" href="http://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-2-teardown">http://lookuga.com/post/reverse-engineering-the-krups-piccolo-part-2-teardown</a>
 <br>
 <br>
 So let's get on with the final post. I would like to start by mentioning that we wanted to challenge ourselves by allocating a budget of just 10 euros to design and build a replacement mainboard. After a couple of minutes we had our part list ready and a couple of minutes later we also found the required parts which we are also sharing with you below:

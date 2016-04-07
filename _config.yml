@@ -3,7 +3,7 @@ title: LookugA
 email: lookuga@outlook.com
 description: "Security, Development and other ramblings"
 baseurl: "" 
-url: "https://lookuga.com"
+url: "http://lookuga.com"
 
 # Gems
 gems:
