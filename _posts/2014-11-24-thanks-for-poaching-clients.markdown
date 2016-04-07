@@ -1,0 +1,12 @@
+---
+redirect_from: "/post/thanks-for-poaching-clients"
+layout: post
+title:  "Thanks for Poaching Clients"
+date:   2014-11-24 00:00:00 +0100
+tags: AceWind Business Malta News
+---
+<p>Recently a client&nbsp;was contacted via phone and then had an in-person meeting to possibly drop their current hosting contract with me and switch over to them. The funny thing was the follow up email that this Maltese "Web Consultancy" firm had sent, was accidently sent to me instead of the business owner…
+</p>
+<p>
+<img style="margin-left: 5px; float: right;" src="/images/poachingclients_image.png">While poaching clients, either done via a competitor or even an employee is not illegal (unless the employee signed a non-solicitation and/or non-compete agreement [continue reading for more information]), it may cause an unhealthy relationship between the current contract holder and business owner and might be worse especially if the poacher does not pay close enough&nbsp;attention&nbsp;to&nbsp;contact you instead of the actually business owner.</p>
+<p>There are ways though to limit the poaching of clients, for your employees, requesting them to sign a non-solicitation and/or non-compete agreement. A non-solicitation agreement is used for restricting someone from soliciting employees and/or customers and a non-compete is used to preventing an employee after which s/he has been terminated to start a business doing the same business activities as yours. While both of the agreements are a good way to prevent current employed employees from approaching/pouching clients, they are not valid indefinitely after the employee has been terminated.</p><p>For existing clients, the only legal way seems to be to have certain terms and conditions in their contract which will lock them to you for a period of time (it is not valid indefinitely), while this legally can't prevent them from terminating the contract, it can enable you to possibly renegotiate new contract terms before them leaving.</p><p>Now regards to&nbsp;the client be poached, in the end the client decided not to leave, this due to the competitor's package being 5x more expensive,  so I guess in the end it is all comes down to who can offer a better service with a lower price.</p><p>If you are looking to switch your current provider due to the expensive yearly/biennial fees, why not request a free consultation on how you could save on hosting: <a href="https://www.acewind.com/contact/hosting" target="_blank">https://www.acewind.com/contact/hosting</a></p>

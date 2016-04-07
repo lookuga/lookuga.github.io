@@ -1,0 +1,8 @@
+---
+redirect_from: "/post/blogengine-net-security-directory-traversal-attack"
+layout: post
+title:  "BlogEngine.NET Security: Directory Traversal Attack"
+date:   2014-11-17 00:00:00 +0100
+tags: Lookuga Mapace News Security
+---
+<p>Original Bug report: <a href="https://blogengine.codeplex.com/workitem/12551" target="_blank">https://blogengine.codeplex.com/workitem/12551</a></p><p>There is a security issue with BlogEngine.NET which allows any one access to files that are usually blocked off.</p><p>&nbsp;Examples:<br><a href="http://www.rtur.net/blog/image.axd?picture=/../../web.config" target="_blank">http://www.rtur.net/blog/image.axd?picture=/../../web.config</a><br><a href="http://www.rtur.net/blog/image.axd?picture=/../users.xml" target="_blank">http://www.rtur.net/blog/image.axd?picture=/../users.xml</a></p><p>Once you download the file, open it up in your favorite text editor ;-)</p><p>Sorry "rtur" for using you as an example, but luckily you are using XML config, while others like me are using DB connection which when using the above link could expose the connection string.</p><p>Quick Fix for non-developers / site owners:<br>Comment out the following lines in the Web.config (they are listed twice), this will stop images in your blogs until such time as Dev's fix the issue:</p><p>&nbsp;&lt;add name="FileHandler" verb="*" path="file.axd" type="BlogEngine.Core.Web.HttpHandlers.FileHandler, BlogEngine.Core" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode" /&gt;</p><p>&nbsp;&lt;add name="ImageHandler" verb="*" path="image.axd" type="BlogEngine.Core.Web.HttpHandlers.ImageHandler, BlogEngine.Core" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode" /&gt;<br></p>

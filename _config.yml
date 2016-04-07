@@ -1,0 +1,28 @@
+# Site settings
+title: LookugA
+email: lookuga@outlook.com
+description: "Security, Development and other ramblings"
+baseurl: "" 
+url: "https://lookuga.com"
+
+# Gems
+gems:
+ - jekyll-paginate
+ - jekyll-sitemap
+ - jekyll-redirect-from
+ #- jekyll-assets
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: 'page:num/'
+permalink: pretty
+
+exclude:
+  - CNAME
+  - README
+  - Gemfile
+  - "*.cmd"
+
+sass:
+    style: compressed

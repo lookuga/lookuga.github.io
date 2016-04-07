@@ -1,0 +1,13 @@
+---
+redirect_from: "/post/lookuga-network-tools-launched-on-firefox-os"
+layout: post
+title:  "LookugA Network Tools Launched on FireFox OS"
+date:   2015-09-14 00:00:00 +0100
+tags: AceWind Awesomeness Development Lookuga Mapace News Security
+---
+Over the last few months, we have been working on LookugA Net Tools for Firefox OS. Net Tools is for penetration and security testing and was created to give Firefox OS and its Marketplace a bit of a push in Malta.<br><br><span style="font-weight: bold;"><span style="font-style: italic;">Net Tools has the following features:</span></span><br><span style="font-weight: bold;">IP Address Viewer</span> - By default the Firefox OS does not have a place to view your assigned IP address. With Net Tools you can see both your local LAN IP Addresses and you public WAN IP addresses.<br><br><span style="font-weight: bold;">Port Scanner </span>- Allows you to scan for open ports either on a single IP address or a range of them within a local network and on the Internet.<br><br><span style="font-weight: bold;">Page Keyword Locator</span> - Allows you to scan a range of IP addresses on a single or a number of HTTP / HTTPS port numbers for a number of specified keywords. This is useful for finding hidden web services, unsecure login pages and other web pages that could be hidden and of great interest.<br><br>The App was uploaded to the Marketplace on the 7th of September (at 11.56 PM) and was approved on the 13th of September, while the average time it takes for an App to be approved is usually 8 - 10 days depending on the queue. Network Tools was approved in 5 Days, which was relatively fast since we were 98 in the queue position.<br><br><img style="width: 826px;" src="/images/nettools_status.png"><br><a href="https://marketplace.firefox.com/app/nettools" target="_blank"></a><br>As this is still the first version, I will probably add some new 
+items as time goes on. Some of these items are Advertisements, storing 
+of custom values added by user and Reverse IP Look up.
+<br><br>The app is testing and using AceWind AppControl which will be launched sometime in the future. AppControl has a number of features such application remote management, messaging, exception handler, obfuscator and a powerful analytic and reporting engine. 
+<br><br>Go ahead and download Net Tools from here:<br>
+<a href="https://marketplace.firefox.com/app/nettools" target="_blank">https://marketplace.firefox.com/app/nettools</a><br><br><span style="font-style: italic;"><span style="font-weight: bold;">Additional Update:</span></span><br>After 48 hours being on the Firefox Marketplace a total of 90 users from around the world are using it, the analytics were captured and reported via AppControl.
