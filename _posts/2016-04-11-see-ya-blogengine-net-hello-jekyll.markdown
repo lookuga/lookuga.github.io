@@ -10,7 +10,7 @@ While we were kind of happy to see that the blog must be popular enough for peop
 
 What a lot people may not be aware of, is that we were running a highly customized version of BlogEngine.NET, with a lot of auditing, reverse tracking and better integration with other platforms, both for security reasons and also to measure the metrics of the content.
 
-While we were implementing these changes we had discovered a number of major security issues, one we even made public (<a href="http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/">http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/</a>), we were not officially credited for it, but we had created the bug report. Along with these security issues, we also had numerus issues with performance when we received large amounts of concurrent hits.
+While we were implementing these changes we had discovered a number of major security issues, one we even made public (<a href="http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/">http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/</a>), we were not officially credited for it, but we had created the bug report. Along with these security issues, we also had numerous issues with performance when we received large amounts of concurrent hits.
 
 Once we finally had enough with the alerts and issues we decided to move away from BlogEngine.NET to another solution.
 
@@ -29,7 +29,7 @@ We decided to go with a static site generator because of the following reasons:
 <li>More scalable if used for larger frontend projects</li>
 </ul>
 
-The static site generator we decided to use was Jekyll. We choose Jekyll, first because it has a cool name, secondly it is directly supported by GitHub (it was created by the same guy who founded GitHub) and thirdly is has some pretty amazing stuff included which we decided to use:
+The static site generator we decided to use was Jekyll. We chose Jekyll, first because it has a cool name, secondly it is directly supported by GitHub (it was created by the same guy who founded GitHub) and thirdly is has some pretty amazing stuff included which we decided to use:
 <ul>
 <li>Jekyll-paginate – Enable paging</li>
 <li>Jekyll-sitemap – Auto Sitemap generation</li>
@@ -39,7 +39,7 @@ The static site generator we decided to use was Jekyll. We choose Jekyll, first 
 
 The entire switch took around a week and a half to do for the following:
 <ol>
-<li>learn everything about Jekyll</li>
+<li>Learn everything about Jekyll</li>
 <li>Create a new, simplistic and improved theme</li>
 <li>Full migration of content and images</li>
 <li>Create all the required redirects (pretty easy with plugin)</li>
