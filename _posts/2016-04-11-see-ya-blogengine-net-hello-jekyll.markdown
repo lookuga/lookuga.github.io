@@ -10,7 +10,7 @@ While we were kind of happy to see that the blog must be popular enough for peop
 
 What a lot people may not be aware of, is that we were running a highly customized version of BlogEngine.NET, with a lot of auditing, reverse tracking and better integration with other platforms, both for security reasons and also to measure the metrics of the content.
 
-While we were implementing these changes we had discovered a number of major security issues, one we even made public (<a href="http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/">http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/</a>), we were not officially credited for it, but we had created the bug report. Along with these security issues, we also had numerous issues with performance when we received large amounts of concurrent hits.
+While we were implementing these changes we had discovered a number of major security issues, one we even made public (<a target="_blank" href="http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/">http://lookuga.com/2014/11/16/blogengine-net-security-directory-traversal-attack/</a>), we were not officially credited for it, but we had created the bug report. Along with these security issues, we also had numerous issues with performance when we received large amounts of concurrent hits.
 
 Once we finally had enough with the alerts and issues we decided to move away from BlogEngine.NET to another solution.
 
@@ -48,19 +48,19 @@ The entire switch took around a week and a half to do for the following:
 
 Now with Jekyll there was a bit of a learning curve, but once you go through the docs provided both by Jekyll and GitHub it makes it a lot easier, I have committed the source of the blog and required configuration to GitHub, so if anyone is interested in looking through and learning a thing or two from it, please go ahead.
 
-<a href="https://github.com/lookuga/lookuga.github.io">https://github.com/lookuga/lookuga.github.io</a>
+<a target="_blank" href="https://github.com/lookuga/lookuga.github.io">https://github.com/lookuga/lookuga.github.io</a>
 
 Important Reads:
 <ul>
-<li><a href="http://jekyllrb.com/docs/usage/">http://jekyllrb.com/docs/usage/</a></li>
-<li><a href="http://jekyllrb.com/docs/structure/">http://jekyllrb.com/docs/structure/</a></li>
-<li><a href="https://jekyllrb.com/docs/templates/">https://jekyllrb.com/docs/templates/</a></li>
-<li><a href="https://jekyllrb.com/docs/configuration/">https://jekyllrb.com/docs/configuration/</a></li>
-<li><a href="http://jekyllrb.com/docs/frontmatter/">http://jekyllrb.com/docs/frontmatter/</a></li>
-<li><a href="https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/">https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/</a></li>
-<li><a href="https://jekyllrb.com/docs/github-pages/">https://jekyllrb.com/docs/github-pages/</a></li>
-<li><a href="https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/">https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/</a></li>
-<li><a href="http://jch.penibelst.de/">http://jch.penibelst.de/</a></li>
-<li><a href="https://github.com/jekyll/jekyll-redirect-from">https://github.com/jekyll/jekyll-redirect-from</a></li>
-<li><a href="http://jekyllrb.com/docs/permalinks/#permalink-style-examples">http://jekyllrb.com/docs/permalinks/#permalink-style-examples</a></li>
+<li><a target="_blank" href="http://jekyllrb.com/docs/usage/">http://jekyllrb.com/docs/usage/</a></li>
+<li><a target="_blank" href="http://jekyllrb.com/docs/structure/">http://jekyllrb.com/docs/structure/</a></li>
+<li><a target="_blank" href="https://jekyllrb.com/docs/templates/">https://jekyllrb.com/docs/templates/</a></li>
+<li><a target="_blank" href="https://jekyllrb.com/docs/configuration/">https://jekyllrb.com/docs/configuration/</a></li>
+<li><a target="_blank" href="http://jekyllrb.com/docs/frontmatter/">http://jekyllrb.com/docs/frontmatter/</a></li>
+<li><a target="_blank" href="https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/">https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/</a></li>
+<li><a target="_blank" href="https://jekyllrb.com/docs/github-pages/">https://jekyllrb.com/docs/github-pages/</a></li>
+<li><a target="_blank" href="https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/">https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/</a></li>
+<li><a target="_blank" href="http://jch.penibelst.de/">http://jch.penibelst.de/</a></li>
+<li><a target="_blank" href="https://github.com/jekyll/jekyll-redirect-from">https://github.com/jekyll/jekyll-redirect-from</a></li>
+<li><a target="_blank" href="http://jekyllrb.com/docs/permalinks/#permalink-style-examples">http://jekyllrb.com/docs/permalinks/#permalink-style-examples</a></li>
 </ul>

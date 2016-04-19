@@ -79,7 +79,7 @@ If anyone, does decide to build one for themselves or would like to get a built 
 <br>
 <br><span style="font-weight: bold;">GitHub Link for source code and design:</span>
 <br>
-<a href="https://github.com/lookuga/DolceGusto">https://github.com/lookuga/DolceGusto</a>
+<a target="_blank" href="https://github.com/lookuga/DolceGusto">https://github.com/lookuga/DolceGusto</a>
 <br>
 <br>
 <span style="font-weight: bold;">ProtoBoard.ai<br></span>
